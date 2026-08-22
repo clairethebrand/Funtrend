@@ -88,7 +88,7 @@ if (bookingForm) {
       `Message: ${data.get('message') || ''}`
     ];
     const text = encodeURIComponent(lines.join('\n'));
-    window.open(`https://wa.link/k0zn9k?text=${text}`, '_blank');
+    window.open(`https://wa.me/2348132493245?text=${text}`, '_blank');
   });
 }
 
