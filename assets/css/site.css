@@ -519,7 +519,7 @@ p{ margin:0; }
   .nav-links, .nav-cta{ display:none; }
   .nav-burger{ display:flex; }
   .mc-intro{ grid-template-columns:1fr; gap:40px; }
-  .mc-intro-media img{ aspect-ratio:16/10; }
+  .mc-intro-media img{ aspect-ratio:3/4; object-position:center 8%; }
   .mc-intro-frame{ display:none; }
   .services-grid{ grid-template-columns:repeat(2, 1fr); }
   .types-grid{ grid-template-columns:repeat(2, 1fr); }
